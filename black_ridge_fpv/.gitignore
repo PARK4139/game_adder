@@ -1,0 +1,25 @@
+# Unreal-generated files
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/.vs/
+*.sln
+*.suo
+*.VC.db
+/Builds/
+/Config/DefaultEditorPerProjectUserSettings.ini
+
+# Generated maps and externally stored binary assets; keep creation scripts in Git.
+/Content/
+/Assets/
+/Downloads/
+/Engine/
+/LocalAssets/
+*.pak
+*.ucas
+*.utoc
+*.pdb
+*.msi
+*.zip
+*.7z

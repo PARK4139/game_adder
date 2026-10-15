@@ -1,0 +1,12 @@
+# Large generated artifacts and downloads
+*.blend
+*.blend1
+*.mp4
+*.exe
+*.msi
+*.download
+*.zip
+*.7z
+**/output/
+**/__pycache__/
+*.pyc
